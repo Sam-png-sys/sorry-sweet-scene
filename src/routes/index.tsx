@@ -83,7 +83,7 @@ function SorryPage() {
                   initial={{ width: 0 }} animate={{ width: "100%" }} transition={{ delay: 1, duration: 1.2 }}
                 />
               </span>
-              ,<br />my love.
+              ,<br />Apurva.
             </h1>
             <p className="text-lg text-muted-foreground max-w-md leading-relaxed mb-8">
               I know words on a screen can't undo what hurt — but I built this so you'd know I've been thinking about nothing else.
