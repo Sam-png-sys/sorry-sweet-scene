@@ -79,6 +79,10 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:description", content: "A heartfelt apology made just for you, Apurva." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
+      { name: "twitter:title", content: "I'm Sorry, Apurva 💗" },
+      { name: "twitter:description", content: "A heartfelt apology made just for you, Apurva." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/dab1155c-af76-4d01-87d1-626c856b77ad/id-preview-1092c16f--1c1945fe-8747-498b-9303-a38d50b18552.lovable.app-1779130613641.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/dab1155c-af76-4d01-87d1-626c856b77ad/id-preview-1092c16f--1c1945fe-8747-498b-9303-a38d50b18552.lovable.app-1779130613641.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
